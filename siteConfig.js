@@ -46,11 +46,6 @@ module.exports = {
       },
       
       {
-        label: "יצירת קשר",
-        url: "https://edition-medali.com/contact",
-      },
-      
-      {
         label: "קרסו נדלן מאיה",
         url: "https://maya.tase.co.il/company/2384",
       },
