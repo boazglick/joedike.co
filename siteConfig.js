@@ -1,11 +1,11 @@
 module.exports = {
-  siteUrl: "https://edition-medali.com", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://geosene.com", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "edition-medali.com", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "geosene.com", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "edition-medali.com", // This allows an alternative site description for meta data for pages.
+    "geosene.com", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
@@ -17,7 +17,7 @@ module.exports = {
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "edition-medali.com",
+    title: "geosene.com",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -29,7 +29,7 @@ module.exports = {
       },
       {
         label: "יצירת קשר",
-        url: "https://edition-medali.com/contact",
+        url: "https://geosene.com/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://edition-medali.com/",
+        url: "https://geosene.com/",
       },
       {
         label: "Sitemap",
-        url: "https://edition-medali.com/sitemap.xml",
+        url: "https://geosene.com/sitemap.xml",
       },
       
        {
         label: "יצירת קשר",
-        url: "https://edition-medali.com/contact",
+        url: "https://geosene.com/contact",
       },
       
       {
@@ -75,9 +75,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "edition-medali.com",
+    title: "geosene.com",
     description:
-      "edition-medali.com",
+      "geosene.com",
   },
   twitterCard: {
     title: "",
@@ -87,15 +87,15 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "edition-medali",
+    title: "geosene",
     description:
       "Lightning fast, 1t on Gatsby.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "edition-medali.com",
+  siteTitle: "geosene.com",
   siteDescription:
-    "spa5.org",
+    "geosene.com",
   language: "he",
   logoUrl: "",
   iconUrl: "",
