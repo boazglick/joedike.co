@@ -25,7 +25,7 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://edition-medali.com/",
+        url: "https://geosene.com/",
       },
       {
         label: "יצירת קשר",
