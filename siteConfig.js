@@ -5,7 +5,7 @@ module.exports = {
 
   siteTitleMeta: "joedike.com", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "geosene.com", // This allows an alternative site description for meta data for pages.
+    "joedike.com", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
@@ -93,7 +93,7 @@ module.exports = {
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "geosene.com",
+  siteTitle: "joedike.com",
   siteDescription:
     "joedike.com",
   language: "he",
