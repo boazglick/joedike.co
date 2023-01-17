@@ -1,9 +1,9 @@
 module.exports = {
-  siteUrl: "https://geosene.com", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://joedike.com", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "geosene.com", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "joedike.com", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
     "geosene.com", // This allows an alternative site description for meta data for pages.
 
@@ -17,7 +17,7 @@ module.exports = {
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "geosene.com",
+    title: "joedike.com",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://geosene.com/",
+        url: "https://joedike.com/",
       },
       {
         label: "יצירת קשר",
-        url: "https://geosene.com/contact",
+        url: "https://joedike.com/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://geosene.com/",
+        url: "https://joedike.com/",
       },
       {
         label: "Sitemap",
-        url: "https://geosene.com/sitemap.xml",
+        url: "https://joedike.com/sitemap.xml",
       },
       
        {
         label: "יצירת קשר",
-        url: "https://geosene.com/contact",
+        url: "https://joedike.com/contact",
       },
       
       {
@@ -75,9 +75,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "geosene.com",
+    title: "joedike.com",
     description:
-      "geosene.com",
+      "joedike.com",
   },
   twitterCard: {
     title: "",
@@ -87,7 +87,7 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "geosene",
+    title: "joedike",
     description:
       "Lightning fast, 1t on Gatsby.",
     imageUrl: "facebookImage.png",
@@ -95,7 +95,7 @@ module.exports = {
   },
   siteTitle: "geosene.com",
   siteDescription:
-    "geosene.com",
+    "joedike.com",
   language: "he",
   logoUrl: "",
   iconUrl: "",
